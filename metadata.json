@@ -1,0 +1,6 @@
+{
+  "name": "問卷滿意度與趨勢分析儀表板",
+  "description": "串接問卷調查表數據，自動分析品質穩定度、新鮮度、交付達成率及服務滿度，並由 Gemini 生成智慧分析與趨勢摘要。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
